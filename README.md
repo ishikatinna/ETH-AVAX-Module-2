@@ -1,5 +1,5 @@
 # Project Title
-## Voting Application
+## Smart Contract Management - ETH + AVAX
 
 This project implements a simple voting application that allows users to vote for candidates and retrieve the vote count. It includes a frontend interface built with HTML, CSS, and JavaScript, and a smart contract written in Solidity.
 
@@ -64,7 +64,6 @@ git clone https://github.com/your-code address
    - Click the "Get Vote Count" button to retrieve the vote count for the candidate.
 
 ## Author 
-Abhishek 
+Ishika Tinna
 
-## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
